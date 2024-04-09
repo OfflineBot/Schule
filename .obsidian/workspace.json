@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GK/J2/Demokratie.md",
-                "mode": "preview",
+                "file": "Deutsch/Material.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "312889cca4c02ca9",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GK/J2/Demokratie.md",
+                "file": "Deutsch/Material.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GK/J2/Demokratie.md",
+                "file": "Deutsch/Material.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GK/J2/Demokratie.md"
+                "file": "Deutsch/Material.md"
               }
             }
           }
@@ -149,14 +148,21 @@
   },
   "active": "ec09fd2cd56f2ee3",
   "lastOpenFiles": [
+    "Deutsch/Übungsaufgabe Text Verfassen.md",
+    "Deutsch/Material.md",
+    "Englisch/Northern England.md",
+    "Deutsch",
+    "Englisch/Englisch Präsi.md",
     "GK/J2/Stärken und Schwächen der SWOT Analyse.md",
-    "index.md",
+    "Musik",
+    "GK/J2/Legitimation von Herrschaft.md",
     "GK/J2/Demokratie.md",
+    "NWT/J2/Freiheitsgrad.md",
+    "NWT/J2",
+    "index.md",
     "Untitled.md",
     "GK/J2",
-    "Englisch/Northern England.md",
     "GK",
-    "Englisch/Englisch Präsi.md",
     "Englisch/How united is the united Kingdom.md",
     "Englisch/Britain.md",
     "NWT/Elastizität.md",

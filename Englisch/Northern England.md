@@ -22,6 +22,7 @@
 	- Angel of the North:
 		- biggest angel statue in the world
 	- Hadrian's Wall (UNESCO World Heritage):
+		- at the border between Scotland and England 
 		- long distance hiking trail
 		- roman forts
 		- beautiful sight
@@ -29,6 +30,4 @@
 		- Manchester United
 		- Liverpool FC
 		- Newcastle United
-	- Hadrians Wall Path:
-		- Historic Architecture
 
