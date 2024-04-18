@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c4020f2fb4bef01c",
+        "id": "22eabb8b778017ad",
         "type": "tabs",
         "children": [
           {
-            "id": "ec09fd2cd56f2ee3",
+            "id": "8f6ba51e66b547eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Material.md",
+                "file": "Englisch/UK/Political System.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Material.md",
+                "file": "Englisch/UK/Political System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Material.md",
+                "file": "Englisch/UK/Political System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Material.md"
+                "file": "Englisch/UK/Political System.md"
               }
             }
           }
@@ -146,13 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec09fd2cd56f2ee3",
+  "active": "8f6ba51e66b547eb",
   "lastOpenFiles": [
-    "Deutsch/Übungsaufgabe Text Verfassen.md",
+    "Englisch/UK/How democratic is the UK.md",
+    "Englisch/UK/Arguemnts.md",
+    "Englisch/UK",
+    "Englisch/UK/Political System.md",
+    "Englisch/UK/How to bridge Gap.md",
+    "Englisch/Präsi",
+    "Englisch/UK/About the UK.md",
+    "Englisch/UK/Britain.md",
+    "Englisch/Präsi/Englisch Präsi.md",
+    "Englisch/Präsi/Northern England.md",
+    "Englisch/Präsi/How united is the united Kingdom.md",
     "Deutsch/Material.md",
-    "Englisch/Northern England.md",
+    "Deutsch/Aufschrieb.md",
+    "GK/J2/Was kann ich.md",
+    "Geo/Aufgaben.md",
+    "Geo/Glossar.md",
+    "Glo.md",
+    "Geo",
+    "Deutsch/Übungsaufgabe Text Verfassen.md",
     "Deutsch",
-    "Englisch/Englisch Präsi.md",
     "GK/J2/Stärken und Schwächen der SWOT Analyse.md",
     "Musik",
     "GK/J2/Legitimation von Herrschaft.md",
@@ -160,11 +175,8 @@
     "NWT/J2/Freiheitsgrad.md",
     "NWT/J2",
     "index.md",
-    "Untitled.md",
     "GK/J2",
     "GK",
-    "Englisch/How united is the united Kingdom.md",
-    "Englisch/Britain.md",
     "NWT/Elastizität.md",
     "NWT",
     "Englisch"

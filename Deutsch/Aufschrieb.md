@@ -1,0 +1,7 @@
+# Aufschrieb
+
+## Einleitung:
+
+## Hauptteil:
+
+## Schluss:
